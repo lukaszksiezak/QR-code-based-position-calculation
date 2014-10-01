@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QrDecoder", "QrDecoder\QrDecoder.csproj", "{9530A173-BCC0-42D4-83D4-D8F268F3DF9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zxing.net3.5", "ZXing.Net-master\Source\lib\zxing.net3.5.csproj", "{E9498F6A-0FA7-4E34-BD38-9C54DC800941}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9530A173-BCC0-42D4-83D4-D8F268F3DF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9530A173-BCC0-42D4-83D4-D8F268F3DF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9530A173-BCC0-42D4-83D4-D8F268F3DF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9530A173-BCC0-42D4-83D4-D8F268F3DF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9498F6A-0FA7-4E34-BD38-9C54DC800941}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9498F6A-0FA7-4E34-BD38-9C54DC800941}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9498F6A-0FA7-4E34-BD38-9C54DC800941}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9498F6A-0FA7-4E34-BD38-9C54DC800941}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
